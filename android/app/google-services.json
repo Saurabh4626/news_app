@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "679669562096",
+    "firebase_url": "https://ninja-brew-crew-d645f.firebaseio.com",
+    "project_id": "ninja-brew-crew-d645f",
+    "storage_bucket": "ninja-brew-crew-d645f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679669562096:android:f5ecf44295793acb94e035",
+        "android_client_info": {
+          "package_name": "com.example.saurabh1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679669562096-8bacpketk4fupq1ujos40fifulrj3t1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiFIUYv8oQqTyx5QdN6n5A3Hlh6F-QWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679669562096-8bacpketk4fupq1ujos40fifulrj3t1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679669562096:android:98d1c37013f5181894e035",
+        "android_client_info": {
+          "package_name": "com.saurabhtiwwari.flutter_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679669562096-8bacpketk4fupq1ujos40fifulrj3t1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiFIUYv8oQqTyx5QdN6n5A3Hlh6F-QWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679669562096-8bacpketk4fupq1ujos40fifulrj3t1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
