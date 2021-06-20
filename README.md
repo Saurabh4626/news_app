@@ -1,6 +1,4 @@
-# saurabh1
-
-A new Flutter application.
+# NEWS APP
 
 ## Getting Started
 
